@@ -1,0 +1,16 @@
+.quote_button {
+  background: #f36727;
+  color: #ffffff;
+  font-size: 18px;
+  line-height: 18px;
+  font-weight: 400;
+  padding: 15px 29px 16px;
+  text-transform: capitalize;
+  font-family: 'Rubik', sans-serif;
+  transition: all 500ms ease;
+  border-radius: 3px;
+  border: none;
+}
+.quote_button:hover {
+  background: rgb(214, 83, 22);
+}

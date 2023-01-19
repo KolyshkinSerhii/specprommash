@@ -1,0 +1,51 @@
+.footer {
+  width: 100%;
+  background-color: #39345a;
+  color: #fff;
+}
+
+.footer_container {
+  width: 1170px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.footer_container_titles {
+  color: #f36727;
+  font-size: 20px;
+  line-height: 20px;
+  font-weight: 500;
+}
+
+.titles_box {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.titles_box h4 {
+  margin-left: 5px;
+  padding-top: 10px;
+}
+
+.work_hours_list {
+  width: 320px;
+  padding-inline-start: 0;
+  list-style: none;
+}
+
+.work_hours_list_item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.map {
+  width: 400px;
+  height: 400px;
+}
