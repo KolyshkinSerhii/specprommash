@@ -7,7 +7,7 @@ export const instance = Axios.create({
     headers: {
         "Content-type": "application/json"
     },
-    baseURL: 'http://localhost:3001/'
+    baseURL: 'https://specprommash-backend.herokuapp.com/'
 })
 
 //TYPES
