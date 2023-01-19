@@ -3,6 +3,9 @@
   "name": "specprommash",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "18.13.0"
+  },
   "dependencies": {
     "@mui/icons-material": "^5.11.0",
     "@mui/material": "^5.11.0",
