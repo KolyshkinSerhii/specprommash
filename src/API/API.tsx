@@ -5,10 +5,9 @@ import { productType } from '../Redux/Products';
 
 export const instance = Axios.create({
     headers: {
-        "Access-Control-Allow-Origin": "https://kolyshkinserhii.github.io/specprommash/",
         "Content-type": "application/json"
     },
-    baseURL: 'https://specprommash-backend.herokuapp.com/'
+    baseURL: 'http://localhost:3001/'
 })
 
 //TYPES
@@ -29,7 +28,7 @@ export const Products = {
         })
     },
     createProduct(title: string, description: string) {
-        return instance.post<productType>('api/products', {title, description }).then(res => {
+        return instance.post<productType>('api/products', { title, description }).then(res => {
             return res.data
         })
     },
