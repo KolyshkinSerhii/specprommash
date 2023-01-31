@@ -11,7 +11,7 @@ const Navigation = (props: Props) => {
     <div className='navigation'>
       <div className='navigation_pages'>
         <div>
-          <NavLink to='/' className={'nav'}>ГОЛОВНА</NavLink>
+          <NavLink to='/home' className={'nav'}>ГОЛОВНА</NavLink>
         </div>
         <div>
           <NavLink to='/aboutUs' className={'nav'}>ПРО НАС</NavLink>
