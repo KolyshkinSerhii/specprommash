@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.082c3fb4.css",
-    "main.js": "/static/js/main.cef7580b.js",
-    "static/media/shredder.png": "/static/media/shredder.564a15a2c6b74bb9817c.png",
-    "static/media/v1-1.jpg": "/static/media/v1-1.ab060721a95083f52950.jpg",
-    "static/media/v1-3.jpg": "/static/media/v1-3.e1c0c96545eb8f63117e.jpg",
-    "static/media/v1-2.jpg": "/static/media/v1-2.359cad3a8a46d0cc75af.jpg",
-    "static/media/screw.png": "/static/media/screw.76a2189fef722c02c3a1.png",
-    "static/media/dryer.png": "/static/media/dryer.b4692a11b95d07235799.png",
-    "static/media/noria.png": "/static/media/noria.3e2f9956af39aebf7bf5.png",
-    "static/media/form.png": "/static/media/form.f22e7291246776a4d03e.png",
-    "static/media/generator.png": "/static/media/generator.1aa66c9b245cb7902c4f.png",
-    "static/media/line.png": "/static/media/line.f8f46efce3d89eee1e9a.png",
-    "static/media/separator.png": "/static/media/separator.a3a4070844e74c159c30.png",
-    "static/media/phone_icon.png": "/static/media/phone_icon.13f4a119843a365f8b63.png",
-    "static/media/logo.png": "/static/media/logo.4f423f7667c2384e0fbd.png",
-    "index.html": "/index.html",
-    "main.082c3fb4.css.map": "/static/css/main.082c3fb4.css.map",
-    "main.cef7580b.js.map": "/static/js/main.cef7580b.js.map"
+    "main.css": "/specprommash/static/css/main.082c3fb4.css",
+    "main.js": "/specprommash/static/js/main.5498b60d.js",
+    "static/media/shredder.png": "/specprommash/static/media/shredder.564a15a2c6b74bb9817c.png",
+    "static/media/v1-1.jpg": "/specprommash/static/media/v1-1.ab060721a95083f52950.jpg",
+    "static/media/v1-3.jpg": "/specprommash/static/media/v1-3.e1c0c96545eb8f63117e.jpg",
+    "static/media/v1-2.jpg": "/specprommash/static/media/v1-2.359cad3a8a46d0cc75af.jpg",
+    "static/media/screw.png": "/specprommash/static/media/screw.76a2189fef722c02c3a1.png",
+    "static/media/dryer.png": "/specprommash/static/media/dryer.b4692a11b95d07235799.png",
+    "static/media/noria.png": "/specprommash/static/media/noria.3e2f9956af39aebf7bf5.png",
+    "static/media/form.png": "/specprommash/static/media/form.f22e7291246776a4d03e.png",
+    "static/media/generator.png": "/specprommash/static/media/generator.1aa66c9b245cb7902c4f.png",
+    "static/media/line.png": "/specprommash/static/media/line.f8f46efce3d89eee1e9a.png",
+    "static/media/separator.png": "/specprommash/static/media/separator.a3a4070844e74c159c30.png",
+    "static/media/phone_icon.png": "/specprommash/static/media/phone_icon.13f4a119843a365f8b63.png",
+    "static/media/logo.png": "/specprommash/static/media/logo.4f423f7667c2384e0fbd.png",
+    "index.html": "/specprommash/index.html",
+    "main.082c3fb4.css.map": "/specprommash/static/css/main.082c3fb4.css.map",
+    "main.5498b60d.js.map": "/specprommash/static/js/main.5498b60d.js.map"
   },
   "entrypoints": [
     "static/css/main.082c3fb4.css",
-    "static/js/main.cef7580b.js"
+    "static/js/main.5498b60d.js"
   ]
 }
